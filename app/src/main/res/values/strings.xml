@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="please_write_an_answer">Please write an answer</string>
+    <string name="correct_answer">Correct answer!</string>
+    <string name="incorrect_answer">Incorrect answer :(</string>
+    <string name="times_up">Sorry! Time is up!</string>
+    <string name="your_score">Your score:</string>
+    <string name="game_over">Game Over</string>
+</resources>
